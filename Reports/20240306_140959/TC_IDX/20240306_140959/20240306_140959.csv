@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_IDX,Chrome 122.0.0.0,,,06-03-2024 14:10:25,06-03-2024 14:10:34,9.006s,PASSED
+,,,,,,,
+Test Cases/TC,Chrome 122.0.0.0,,,06-03-2024 14:10:26,06-03-2024 14:10:34,8.738s,PASSED
+"openBrowser(""https://www.google.com/"")",Chrome 122.0.0.0,,,06-03-2024 14:10:26,06-03-2024 14:10:34,8.112s,PASSED
+closeBrowser(),Chrome 122.0.0.0,,,06-03-2024 14:10:34,06-03-2024 14:10:34,0.277s,PASSED
